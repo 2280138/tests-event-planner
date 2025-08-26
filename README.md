@@ -6,7 +6,7 @@
 ## Group Members
 - Ariha Zainab
 - Marrium Shaikh
-- Bisma Shaikh
+- Bisma Saeed
   
 ## 🚀 Features
 
