@@ -3,6 +3,11 @@
 ## Overview
 **Smart Event Planning App** is a mobile application built to streamline the event planning process by enabling seamless collaboration between two primary roles: Vendors and Organizers. The platform offers a centralized, interactive space where users can connect as well as coordinate effortlessly. Whether it's booking a venue, choosing a catering service, or finding the perfect decor, this app simplifies it all.
 
+## Group Members
+- Ariha Zainab
+- Marrium Shaikh
+- Bisma Shaikh
+  
 ## 🚀 Features
 
 ### 1. Splash Screen
